@@ -1,4 +1,4 @@
-## About the future of the uYouEnhanced Project (Updated, June 13, 2025)
+## About the future of the uYouEnhanced Project (Updated, June 13, 2025) decrypt.day (decrypted yt ipa)
 Hey everyone,
 
 Just wanted to give you an update about uYouEnhanced. I’m not 100% leaving or anything, but I won’t be maintaining this tweak much like before. I’ll still drop some github commits now and then to try and improve uYouEnhanced, but there’s just no way I can ever get through and solve the 300+ known existing issues in this github repository.
